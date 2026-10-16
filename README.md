@@ -31,7 +31,7 @@ Como executar o projeto
 
     Clone o repositório:
 
-    git clone URL_DO_SEU_REPOSITORIO
+    git clone https://github.com/kaamilax/sistemaEscolar.git
 
     Entre na pasta do projeto:
 
